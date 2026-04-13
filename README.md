@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Diya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++, Java, python, and web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+<h1 align="center">Hey, I'm Diya </h1>
 
-<!---
-deexglitch/deexglitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend-Focused+Full+Stack+Developer;Problem+Solver;Building+Scalable+Systems" />
+</p>
