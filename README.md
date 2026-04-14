@@ -6,10 +6,10 @@
 </p>
 
 A little about me:
--  I am currently studying towards an Undergraduate degree in Computer Science at the University of Pretoria.
+-  I am currently studying towards an undergraduate degree in Computer Science at the University of Pretoria.
 -  **Fun Fact:** I like rubik cubes and trinkets!
--  I am driven by learning new things and exploring the wide variety of topics in Tech
--  Talk to me about Space, Pyschology, Animals, Science, Anime, Gaming or anything that interests you.
+-  I am driven by learning new things and exploring the wide variety of topics in tech
+-  Talk to me about Space, Psychology, Animals, Science, Anime, Gaming or anything that interests you.
 
 <h4> Languages </h4>
 <span> 
