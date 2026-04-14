@@ -7,7 +7,7 @@
 
 A little about me:
 -  I am currently studying towards an Undergraduate degree in Computer Science at the University of Pretoria.
--  **Fun Fact:** I like rubix cubes and trinkets!
+-  **Fun Fact:** I like rubik cubes and trinkets!
 -  I am driven by learning new things and exploring the wide variety of topics in Tech
 -  Talk to me about Space, Pyschology, Animals, Science, Anime, Gaming or anything that interests you.
 
